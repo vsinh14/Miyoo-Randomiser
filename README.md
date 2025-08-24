@@ -40,7 +40,3 @@ Currently, only the demo mutation is applied.
 - Replace demo mutation with real randomization logic
 - Add IPS/BPS patch output option
 - Expand game detection and checksum fixing
-
-## License
-
-This skeleton is provided for educational purposes. If you port actual Universal Pokémon Randomizer logic, note that the original project is GPL-3.0 licensed.
